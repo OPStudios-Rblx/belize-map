@@ -92,11 +92,12 @@ body {
     flex-direction: column;
     justify-content: start;
     align-items: start;
-    padding: 15px 0 0 25px;
+    padding: 15px 10px 0 10px;
 }
 
 .district-name {
     font-size: 45px;
     text-decoration: underline;
 }
+
 
