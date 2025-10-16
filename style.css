@@ -91,13 +91,13 @@ body {
     display: flex;
     flex-direction: column;
     justify-content: start;
-    align-items: start;
-    padding: 15px 10px 0 10px;
+    align-items: center;
 }
 
 .district-name {
     font-size: 45px;
     text-decoration: underline;
 }
+
 
 
